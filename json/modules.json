@@ -1,11 +1,19 @@
 {
-    "name": "AidenB's Magisk Module Repo"
-    "modules": [
-        {
-            "id": "AidenB's Modded Safetynet Fix",
-            "notes_url": "https://raw.githubusercontent.com/aidenbowling/Magisk-Module-Repo/main/safetynet/Safetynet.md",
-            "prop_url": "https://raw.githubusercontent.com/aidenbowling/Magisk-Module-Repo/main/safetynet/module.prop",
-            "zip_url": "https://github.com/aidenbowling/Magisk-Module-Repo/raw/main/safetynet/safetynet-fix.zip"
-        }
+    "name": "Sanmer Magisk Repo",
+  "timestamp": 1680849509.852253,
+  "modules": [
+    {
+      "id": "adb-ndk",
+      "license": "",
+      "version": "1.0.41",
+      "versionCode": 104109,
+      "name": "ADB & Fastboot for Android NDK",
+      "author": "osm0sis & Surge1223 @ xda-developers",
+      "description": "Static ARM adb and fastboot binaries for Android built with the NDK",
+      "states": {
+        "zipUrl": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104109.zip",
+        "changelog": "https://ya0211.github.io/magisk-modules-repo/modules/adb-ndk/1.0.41_104109.md"
+      }
+    },
     ],
 }
