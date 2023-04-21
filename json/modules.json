@@ -3,9 +3,9 @@
     "modules": [
         {
             "id": "AidenB's Modded Safetynet Fix",
-            "notes_url": "https://github.com/aidenbowling/Safetynet-Fix-Modded/blob/main/README.md",
-            "prop_url": "https://github.com/aidenbowling/Safetynet-Fix-Modded/blob/main/safetynet/module.prop",
-            "zip_url": "https://github.com/aidenbowling/Safetynet-Fix-Modded/archive/refs/heads/main.zip"
+            "notes_url": "https://raw.githubusercontent.com/aidenbowling/Magisk-Module-Repo/main/safetynet/Safetynet.md",
+            "prop_url": "https://raw.githubusercontent.com/aidenbowling/Magisk-Module-Repo/main/safetynet/module.prop",
+            "zip_url": "https://github.com/aidenbowling/Magisk-Module-Repo/raw/main/safetynet/safetynet-fix.zip"
         }
     ],
 }
